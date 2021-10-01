@@ -19,6 +19,7 @@
   position: absolute;
   top: 0;
   left: 0;
+  transition: transform 0.5s ease-in-out;
 }
 
 .slide-left > div {
@@ -43,6 +44,7 @@
   top: 0;
   left: 35%;
   width: 65%;
+  transition: transform 0.5s ease-in-out;
 }
 
 .slide-right > div {
